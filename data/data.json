@@ -1,0 +1,122 @@
+{
+  "users": [
+    {
+      "username": "Max",
+      "password": "crocs13",
+      "aura": 100,
+      "role": "admin",
+      "givenAura": {},
+      "netDailyAura": {
+        "Sevi": 0,
+        "Gigi": 450,
+        "Marco": 0,
+        "Dezi": 0,
+        "Max": 0
+      },
+      "totalGiven": 450,
+      "totalReceived": 100,
+      "achievements": [
+        "who_even_are_you",
+        "slightly_known",
+        "lowkey_cool",
+        "getting_noticed"
+      ],
+      "equippedNameTag": "getting_noticed"
+    },
+    {
+      "username": "Gigi",
+      "password": "cricut",
+      "aura": 450,
+      "role": "user",
+      "givenAura": {},
+      "netDailyAura": {
+        "Dezi": 200,
+        "Sevi": 50,
+        "Max": 100,
+        "Marco": 125
+      },
+      "totalGiven": 475,
+      "totalReceived": 450,
+      "achievements": [
+        "who_even_are_you",
+        "slightly_known",
+        "lowkey_cool",
+        "getting_noticed",
+        "kinda_him",
+        "respectable",
+        "solid_reputation",
+        "rising_star",
+        "main_character_loading"
+      ],
+      "equippedNameTag": "aura_donator"
+    },
+    {
+      "username": "Marco",
+      "password": "pig",
+      "aura": 125,
+      "role": "user",
+      "givenAura": {
+        "Max": 250
+      },
+      "netDailyAura": {
+        "Max": 0,
+        "Gigi": 0,
+        "Dezi": 0,
+        "Sevi": 0
+      },
+      "totalGiven": 0,
+      "totalReceived": 125,
+      "achievements": [
+        "who_even_are_you",
+        "slightly_known",
+        "lowkey_cool",
+        "getting_noticed"
+      ],
+      "equippedNameTag": null
+    },
+    {
+      "username": "Dezi",
+      "password": "diddy",
+      "aura": 200,
+      "role": "user",
+      "givenAura": {
+        "Max": 125,
+        "Marco": 500
+      },
+      "netDailyAura": {
+        "Max": 0,
+        "Gigi": 0,
+        "Marco": 0,
+        "Sevi": 0
+      },
+      "totalGiven": 0,
+      "totalReceived": 200,
+      "achievements": [
+        "who_even_are_you",
+        "slightly_known",
+        "lowkey_cool",
+        "getting_noticed",
+        "kinda_him",
+        "respectable"
+      ],
+      "equippedNameTag": null
+    },
+    {
+      "username": "Sevi",
+      "password": "unicorn",
+      "aura": 50,
+      "role": "user",
+      "givenAura": {
+        "Max": 50
+      },
+      "netDailyAura": {},
+      "totalGiven": 0,
+      "totalReceived": 50,
+      "achievements": [
+        "who_even_are_you",
+        "slightly_known"
+      ]
+    }
+  ],
+  "announcement": "its finally here the AURA TRACKER. finally after 5 looong days of frustration the v1 of the aura tracker is here. WAYYY more to come in the future."
+}
